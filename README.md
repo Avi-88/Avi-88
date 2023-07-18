@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a developer proficient in MERN stack and React native. I am a CSE Undergrad at Vishwakarma Institute of Information Technology , Pune. Currently exploring opensource and learning about devops and cloud native. Would love to collaborate on building something awesome!
+Hi, I am a Fullstack developer proficient in MERN stack and React native. I am a CSE Undergrad at Vishwakarma Institute of Information Technology , Pune. Currently exploring opensource and learning about devops and cloud native. Would love to collaborate on building something awesome!
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkargunjal/) 
